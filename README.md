@@ -1,0 +1,2 @@
+# Twitter-Sentiment-Analysis---Premier-League-Top-Teams
+The Sentiment Analysis project was conducted in Twitter platform in February 2022. The extracted tweets are related with three famous English Premier League teams and traditional rivals: Liverpool, Manchester City and Manchester United. The selection of these teams was a combination of various parameters, such as their fame, their fanbase and their current status in the championship.
